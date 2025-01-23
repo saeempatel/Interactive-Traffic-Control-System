@@ -1,2 +1,6 @@
 # Interactive-Traffic-Control-System
 The Traffic Signal Project is a Java-based GUI application I created to simulate a basic traffic system with interactive controls for managing traffic signals and car movement. Using the Swing library, I designed three traffic signal panels (red, yellow, and green) that can be controlled with buttons to start, slow, or stop the car. The car moves horizontally across the screen, and I added controls to reverse its direction or perform a U-turn, complete with a flipped car image. A timer handles the car's movement, updating its position dynamically at regular intervals. To make the simulation more realistic, I included an invisible wall on the right side of the screen to prevent the car from going off bounds. For aesthetics, I used a custom background image, color-coded panels, and buttons with hover effects. Additionally, I implemented a utility class to handle flipping the car image for U-turn functionality. This project allowed me to apply key Java programming concepts like GUI design, event-driven programming, and image manipulation, making it both functional and visually engaging.
+
+
+https://github.com/user-attachments/assets/01abec7c-b98b-4ff9-889e-cd3025933519
+
